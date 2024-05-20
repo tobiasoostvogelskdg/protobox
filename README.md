@@ -17,5 +17,5 @@ Feel free to make your own protobox and experiment with all the things you can c
 * 1 Potentiometer
 * cables
 
-<sub><sup>All cables where solderd and put together in a box</sup></sub>
+<sub><sup>All cables where solderd and put together in a box.</sup></sub>
 <sub><sup>This means there was no breadboard used in this project</sup></sub>
